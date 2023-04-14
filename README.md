@@ -1,7 +1,7 @@
 <h2>PROBLEM STATEMENT: Fulaninho joga em qual posição?</h2>
 ---
 <p>A convocação dos 26 jogadores que compõem a seleção brasileira foi muito aguardada por vários apaixonados por futebol, até apostas foram feitas. Essa foi a lista dos jogadores convocados pelo técnico Tite:</p>
-<img scr='jogadores.png' alt='Lista de Convocados'>
+<img scr='/jogadores.png' alt='Lista de Convocados'>
 <p>Você tem um amigo chamado João que nunca lembra a posição dos jogadores e passa o tempo todo perguntando “Fulaninho joga em qual posição?”. Para facilitar sua vida, você decide escrever um código que responde a essa pergunta.</p>
 <h3>Input</h3>
 ---
